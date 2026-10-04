@@ -77,9 +77,11 @@ Control de motores:
 
 Los archivos `Motores.h` y `Motores.cpp` fueron reconstruidos posteriormente para mantener la interfaz utilizada por el código principal original.
 
-## Autor
+## Autores
 
 Victor Gabriel Curiel Gonzalez
+Ximena Lujan Quenhan Riveros
+Hernan Gabriel Espinola Fleitas
 
 Universidad Nacional de Asunción  
 Facultad de Ingeniería  
